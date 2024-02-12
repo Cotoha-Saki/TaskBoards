@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_tasks"
+        android:icon="@drawable/task"
+        android:title="@string/nav_task"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_shifts"
+        android:icon="@drawable/calendar"
+        android:title="@string/nav_shift"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_weight"
+        android:icon="@drawable/save"
+        android:title="@string/nav_body"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_goals"
+        android:icon="@drawable/cycle"
+        android:title="@string/nav_pdca"
+        app:showAsAction="ifRoom" />
+</menu>

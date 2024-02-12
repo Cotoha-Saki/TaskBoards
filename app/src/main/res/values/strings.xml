@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">タスクボード</string>
+
+    <string name="nav_task">タスク</string>
+    <string name="nav_shift">シフト</string>
+    <string name="nav_body">体重記録</string>
+    <string name="nav_pdca">PDCA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
